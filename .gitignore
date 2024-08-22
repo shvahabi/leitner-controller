@@ -14,7 +14,7 @@ project/metals.sbt
 
 commitmsg.md
 worktrees/
-worksheets/
+# worksheets/
 
 
 # Added by Sbt
