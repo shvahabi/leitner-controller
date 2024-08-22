@@ -1,0 +1,52 @@
+# Added by Developer
+target/
+project/project/
+project/target/
+project/metals.sbt
+
+.idea/
+.bsp/
+.vscode/
+.metals/
+.scala-build/
+.dotty-ide-artifact
+.dotty-ide.json
+
+commitmsg.md
+worktrees/
+worksheets/
+
+
+# Added by Sbt
+## macOS
+.DS_Store
+
+## sbt specific
+dist/*
+# target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/local-plugins.sbt
+.history
+.ensime
+.ensime_cache/
+.sbt-scripted/
+local.sbt
+
+## Bloop
+# .bsp
+
+## VS Code
+# .vscode/
+
+## Metals
+.bloop/
+# .metals/
+metals.sbt
+
+## IDEA
+# .idea
+.idea_modules
+
